@@ -1,2 +1,3 @@
-# GA Search
-code for looking through chaos
+# using genetic algorithms to navigate chaos
+
+`thresholds-ga` is where i'll keep track of my attempts to use genetic algorithms for searching chaotic dynamical systems. this is the search-side counterpart of my project [thresholds](http://github.com/davidkant/thresholds). the idea is that python manages the ga search while another program is responsible for synthesizing the audio. it's a bit of a mess at the moment, but will hopefully shape up into something more generalized and useful to others.
